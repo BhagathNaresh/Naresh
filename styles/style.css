@@ -9,7 +9,7 @@
 body{
     font-family: 'Poppins', sans-serif;
     color: white;
-    font-size: 1.2rem;
+    font-size: 1 rem;
     background-color: #23233b;
 }
 
@@ -155,7 +155,7 @@ p{
 
 /* --------Sections-------- */
 .section{
-    padding: 8rem 15rem;
+    padding: rem 15rem;
     background-color: #171A38;
 }
 
@@ -165,12 +165,84 @@ p{
 
 .title2{
     position: relative;
-    padding-bottom: 1.5rem;
+    padding-bottom: 7.0rem;
     display: inline-block;
     font-size: 2.5rem;
+    margin-top: 150px;   
+    
 }
 
 .title2::before{
+    content: '';
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    width: 50%;
+    height: 2px;
+    background-color: #FE1A95;
+    transform: translateX(-50%);
+}
+.title3{
+    padding-bottom: 1.5rem;
+    position: relative;
+    display: inline-block;
+    font-size: 2.5rem;
+}
+.title3::before{
+    content: '';
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    width: 50%;
+    height: 2px;
+    background-color: #FE1A95;
+    transform: translateX(-50%);
+}
+.title4{
+    position: relative;
+    display: inline-block;
+    font-size: 2.5rem; 
+    padding: 5px ;
+    margin: 900px 0px 30px 0px;
+}
+.title4::before{
+    content: '';
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    width: 50%;
+    height: 2px;
+    background-color: #FE1A95;
+    transform: translateX(-50%);
+}
+.title5{
+    padding-bottom: 1.5rem;
+    position: relative;
+    display: inline-block;
+    font-size: 2.5rem; 
+    padding: 5px ;
+    margin: 10px ;
+    
+}
+.title5::before{
+    content: '';
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    width: 50%;
+    height: 2px;
+    background-color: #FE1A95;
+    transform: translateX(-50%);
+}
+.title6{
+    padding-bottom: 1.5rem;
+    position: relative;
+    display: inline-block;
+    font-size: 2.5rem; 
+    padding: 5px ;
+    
+}
+.title6::before{
     content: '';
     position: absolute;
     left: 50%;
