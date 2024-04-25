@@ -215,6 +215,7 @@ p{
     background-color: #FE1A95;
     transform: translateX(-50%);
 }
+
 .title5{
     padding-bottom: 1.5rem;
     position: relative;
@@ -222,6 +223,7 @@ p{
     font-size: 2.5rem; 
     padding: 5px ;
     margin: 10px ;
+    
     
 }
 .title5::before{
