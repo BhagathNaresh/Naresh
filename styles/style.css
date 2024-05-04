@@ -223,7 +223,7 @@ p{
     font-size: 2.5rem; 
     padding: 5px ;
     margin: 10px ;
-    
+
     
 }
 .title5::before{
@@ -254,12 +254,47 @@ p{
     background-color: #FE1A95;
     transform: translateX(-50%);
 }
+.title7{
+    padding-bottom: 1.5rem;
+    position:relative;
+    display: inline inline-block;
+    font-size: 2.5 rem;
+    padding: 5px;
+}
+.title7:before{
+    content: '';
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    width: 50%;
+    height: 2px;
+    background-color: #FE1A95;
+    transform: translateX(-50%);  
+}
+.title8{
+    padding-bottom: 1.5rem;
+    position:relative;
+    display: inline inline-block;
+    font-size: 2.5 rem;
+    padding: 5px;
+}
+.title8:before{
+    content: '';
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    width: 50%;
+    height: 2px;
+    background-color: #FE1A95;
+    transform: translateX(-50%);  
+}
 
 .featured-para{
     margin: 0 auto;
     width: 60%;
     text-align: center;
     padding: 3rem 0;
+    
 }
 
 .btn-con{
