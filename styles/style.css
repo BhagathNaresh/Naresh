@@ -288,6 +288,126 @@ p{
     background-color: #FE1A95;
     transform: translateX(-50%);  
 }
+.title9{
+    padding-bottom: 1.5rem;
+    position:relative;
+    display: inline inline-block;
+    font-size: 2.5 rem;
+    padding: 5px;
+}
+.title9:before{
+    content: '';
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    width: 50%;
+    height: 2px;
+    background-color: #FE1A95;
+    transform: translateX(-50%);  
+}
+.title10{
+    padding-bottom: 1.5rem;
+    position:relative;
+    display: inline inline-block;
+    font-size: 2.5 rem;
+    padding: 5px;
+}
+.title10:before{
+    content: '';
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    width: 50%;
+    height: 2px;
+    background-color: #FE1A95;
+    transform: translateX(-50%);  
+}
+.title11{
+    padding-bottom: 1.5rem;
+    position:relative;
+    display: inline inline-block;
+    font-size: 2.5 rem;
+    padding: 5px;
+}
+.title11:before{
+    content: '';
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    width: 50%;
+    height: 2px;
+    background-color: #FE1A95;
+    transform: translateX(-50%);  
+}
+.title12{
+    padding-bottom: 1.5rem;
+    position:relative;
+    display: inline inline-block;
+    font-size: 2.5 rem;
+    padding: 5px;
+}
+.title12:before{
+    content: '';
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    width: 50%;
+    height: 2px;
+    background-color: #FE1A95;
+    transform: translateX(-50%);  
+}
+.title13{
+    padding-bottom: 1.5rem;
+    position:relative;
+    display: inline inline-block;
+    font-size: 2.5 rem;
+    padding: 5px;
+}
+.title13:before{
+    content: '';
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    width: 50%;
+    height: 2px;
+    background-color: #FE1A95;
+    transform: translateX(-50%);  
+}
+.title14{
+    padding-bottom: 1.5rem;
+    position:relative;
+    display: inline inline-block;
+    font-size: 2.5 rem;
+    padding: 5px;
+}
+.title14:before{
+    content: '';
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    width: 50%;
+    height: 2px;
+    background-color: #FE1A95;
+    transform: translateX(-50%);  
+}
+.title15{
+    padding-bottom: 1.5rem;
+    position:relative;
+    display: inline inline-block;
+    font-size: 2.5 rem;
+    padding: 5px;
+}
+.title15:before{
+    content: '';
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    width: 50%;
+    height: 2px;
+    background-color: #FE1A95;
+    transform: translateX(-50%);  
+}
+
 
 .featured-para{
     margin: 0 auto;
