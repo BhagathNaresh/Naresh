@@ -257,7 +257,7 @@ p{
 .title7{
     padding-bottom: 1.5rem;
     position:relative;
-    display: inline inline-block;
+    display: inline-block;
     font-size: 2.5 rem;
     padding: 5px;
 }
@@ -274,7 +274,7 @@ p{
 .title8{
     padding-bottom: 1.5rem;
     position:relative;
-    display: inline inline-block;
+    display:  inline-block;
     font-size: 2.5 rem;
     padding: 5px;
 }
@@ -291,7 +291,7 @@ p{
 .title9{
     padding-bottom: 1.5rem;
     position:relative;
-    display: inline inline-block;
+    display:  inline-block;
     font-size: 2.5 rem;
     padding: 5px;
 }
@@ -308,7 +308,7 @@ p{
 .title10{
     padding-bottom: 1.5rem;
     position:relative;
-    display: inline inline-block;
+    display: inline-block;
     font-size: 2.5 rem;
     padding: 5px;
 }
@@ -325,7 +325,7 @@ p{
 .title11{
     padding-bottom: 1.5rem;
     position:relative;
-    display: inline inline-block;
+    display: inline-block;
     font-size: 2.5 rem;
     padding: 5px;
 }
@@ -342,7 +342,7 @@ p{
 .title12{
     padding-bottom: 1.5rem;
     position:relative;
-    display: inline inline-block;
+    display:  inline-block;
     font-size: 2.5 rem;
     padding: 5px;
 }
@@ -359,7 +359,7 @@ p{
 .title13{
     padding-bottom: 1.5rem;
     position:relative;
-    display: inline inline-block;
+    display:  inline-block;
     font-size: 2.5 rem;
     padding: 5px;
 }
@@ -376,7 +376,7 @@ p{
 .title14{
     padding-bottom: 1.5rem;
     position:relative;
-    display: inline inline-block;
+    display: inline-block;
     font-size: 2.5 rem;
     padding: 5px;
 }
@@ -393,7 +393,7 @@ p{
 .title15{
     padding-bottom: 1.5rem;
     position:relative;
-    display: inline inline-block;
+    display:  inline-block;
     font-size: 2.5 rem;
     padding: 5px;
 }
@@ -407,7 +407,125 @@ p{
     background-color: #FE1A95;
     transform: translateX(-50%);  
 }
-
+.title16{
+    padding-bottom: 1.5rem;
+    position:relative;
+    display: inline-block;
+    font-size: 2.5 rem;
+    padding: 5px;
+}
+.title16:before{
+    content: '';
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    width: 50%;
+    height: 2px;
+    background-color: #FE1A95;
+    transform: translateX(-50%);  
+}
+.title17{
+    padding-bottom: 1.5rem;
+    position:relative;
+    display: inline-block;
+    font-size: 2.5 rem;
+    padding: 5px;
+}
+.title17:before{
+    content: '';
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    width: 50%;
+    height: 2px;
+    background-color: #FE1A95;
+    transform: translateX(-50%);  
+}
+.title18{
+    padding-bottom: 1.5rem;
+    position:relative;
+    display: inline-block;
+    font-size: 2.5 rem;
+    padding: 5px;
+}
+.title18:before{
+    content: '';
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    width: 50%;
+    height: 2px;
+    background-color: #FE1A95;
+    transform: translateX(-50%);  
+}
+.title19{
+    padding-bottom: 1.5rem;
+    position:relative;
+    display: inline-block;
+    font-size: 2.5 rem;
+    padding: 5px;
+}
+.title19:before{
+    content: '';
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    width: 50%;
+    height: 2px;
+    background-color: #FE1A95;
+    transform: translateX(-50%);  
+}
+.title20{
+    padding-bottom: 1.5rem;
+    position:relative;
+    display: inline-block;
+    font-size: 2.5 rem;
+    padding: 5px;
+}
+.title20:before{
+    content: '';
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    width: 50%;
+    height: 2px;
+    background-color: #FE1A95;
+    transform: translateX(-50%);  
+}
+.title21{
+    padding-bottom: 1.5rem;
+    position:relative;
+    display: inline-block;
+    font-size: 2.5 rem;
+    padding: 5px;
+}
+.title21:before{
+    content: '';
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    width: 50%;
+    height: 2px;
+    background-color: #FE1A95;
+    transform: translateX(-50%);  
+}
+.title22{
+    padding-bottom: 1.5rem;
+    position:relative;
+    display: inline-block;
+    font-size: 2.5 rem;
+    padding: 5px;
+}
+.title22:before{
+    content: '';
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    width: 50%;
+    height: 2px;
+    background-color: #FE1A95;
+    transform: translateX(-50%);  
+}
 
 .featured-para{
     margin: 0 auto;
